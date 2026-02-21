@@ -1,9 +1,9 @@
 ## Hi, I'm Rafia 👾
 
-I'm a programmer from Philadelphia!  
+I'm a [programmer](https://www.rafiamobashira.com/) from Philadelphia!  
 
 Currently, I'm a third-year Computer Science & Economics student at Yale.  
-I primarily work with HTML, CSS, JavaScript, Python, and SQL, but I love learning new tools, too.  
+I primarily work with 🔧 HTML, CSS, JavaScript, Python, and SQL — but I love learning new tools, too.  
 
 I enjoy experimenting with AI applications and analyzing their impacts.  
 On a day-to-day basis, I enjoy using code to make life more fun and efficient (mostly fun).  
