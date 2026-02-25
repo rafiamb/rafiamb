@@ -2,12 +2,11 @@
 
 I'm a [programmer](https://www.rafiamobashira.com/) from Philadelphia!  
 
-Currently, I'm a third-year Computer Science & Economics student at Yale.  
-I primarily work with 🔧 HTML, CSS, JavaScript, Python, and SQL — but I love learning new tools, too.  
+Currently, I'm a third-year Computer Science & Economics student at Yale building predictive models and data-driven systems that explore how intelligent algorithms influence behavior. I primarily work with HTML, CSS, JavaScript, Python, and SQL, and I’m constantly expanding my technical toolkit.
 
-I enjoy experimenting with AI applications and analyzing their impacts.  
-On a day-to-day basis, I enjoy using code to make life more fun and efficient (mostly fun).  
-But that's not all. I also spend my time video/photo editing, creating content for social media, and trying new foods — big foodie here! 
+I’m particularly drawn to recommendation systems, applied ML, and high-impact products that operate at scale. I’m fascinated by the full product lifecycle, from data exploration and model development to deployment, iteration, and measuring user impact.
+
+Outside of technical work, I’m interested in digital media and product design. I enjoy coding and designing useful everyday tools, mastering video and photo editing tools, and have created lifestyle content that has generated 250k+ interactions through experimentation in marketing and algorithmic insights.
 
 **Let's connect!**
 
