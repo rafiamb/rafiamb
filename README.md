@@ -6,7 +6,7 @@ I'm a third-year CS & Econ student at Yale building predictive models and data-d
 
 I’m drawn to recommendation systems, applied ML, and high-impact products that operate at scale. I’m fascinated by the full product lifecycle, from data exploration to deployment and measuring user impact.
 
-Outside of school, I tinker in digital media and graphic design, coding everyday tools, mastering video/photo editing, and creating lifestyle content that has generated 250k+ interactions through marketing experimentation.
+Outside of school, I enjoy digital media and graphic design, coding everyday tools, mastering video/photo editing, and creating lifestyle content that has generated 250k+ interactions through marketing experimentation.
 
 **Let's connect!**
 
